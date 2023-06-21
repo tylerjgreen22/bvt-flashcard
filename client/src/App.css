@@ -1,0 +1,24 @@
+.flashcards-container {
+  padding: 1em;
+}
+
+.flashcard {
+  background-color: tan;
+  width: 400px;
+  height: 300px;
+  padding: 1em;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.inner {
+  max-width: 300px;
+}
